@@ -1,0 +1,10 @@
+# Tips for App Service Linux sidecar pattern
+
+This repository contains some tips for [Azure App Service Linux sidecar pattern](https://azure.github.io/AppService/2024/11/08/Global-Availability-Sidecars.html).
+
+See also
+- [App Service for Linux における Sidecar パターンの Tips #Azure - Qiita](https://qiita.com/georgeOsdDev@github/items/8df014c0fea153659074)
+
+## Disclaimer
+
+This repository is intended solely for testing purposes. It does not come with any formal guarantees of functionality.
